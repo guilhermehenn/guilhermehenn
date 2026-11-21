@@ -1,50 +1,26 @@
 # Guilherme Henn
 
-Systems Analyst focused on application support, system integrations, data analysis, observability and production troubleshooting.
+Systems Analyst working in production application support for retail and e-commerce. I investigate incidents across logs, databases and APIs, and document what I find so the next case is faster to solve.
 
-I work with critical systems in retail, e-commerce and corporate environments, supporting production stability, incident analysis, API validation, databases, logs, monitoring and operational continuity.
+## What I work with
 
-## Focus Areas
+- **Support & incidents:** application support, troubleshooting, root cause analysis, ServiceNow, change management
+- **Platforms:** SAP Commerce · Oracle ATG
+- **Databases:** SQL · Oracle Database · SQL Server · MySQL · MongoDB
+- **APIs & testing:** Postman · SoapUI · Newman
+- **Observability:** Dynatrace · Graylog · Grafana · Kibana
+- **Environments:** Linux · Windows · Jenkins · Git
+- **Scripting:** PowerShell · Python
 
-- Application support and production troubleshooting
-- Incident analysis and root cause investigation
-- System integrations and Web Services APIs
-- SQL, Oracle Database, SQL Server, MySQL and MongoDB
-- Observability with Dynatrace, Graylog, Grafana and Kibana
-- SAP Commerce and Oracle ATG support
-- Software testing, validation and production change support
-- Technical documentation and operational procedures
+## Projects
 
-## Technical Stack
+- **[WinForge](https://github.com/guilhermehenn/winforge)**: open-source Windows tool built in PowerShell for maintenance, cleanup, repairs, diagnostics, updates and program management via winget.
+- **[serveRest-api](https://github.com/guilhermehenn/serveRest-api)**: automated API tests for ServeRest with Postman, Node.js and Newman.
 
-**Support & Operations**  
-Application Support · Technical Support · Troubleshooting · Production Support · ERP Software
+## Background
 
-**Databases**  
-SQL · Oracle Database · SQL Server · MySQL · MongoDB
-
-**Integrations & Testing**  
-Web Services API · Postman · SoapUI · Software Testing
-
-**Observability**  
-Dynatrace · Graylog · Grafana · Kibana
-
-**Platforms & Tools**  
-SAP Commerce · Oracle ATG · Linux · Windows · Git · Jenkins
-
-**Programming & Automation**  
-PowerShell · Python · Java
-
-## Professional Background
-
-Currently working as a Systems Analyst, supporting critical production environments related to retail operations, e-commerce, order integrations, fiscal flows and corporate platforms.
-
-My routine involves incident investigation, log analysis, database queries, API validation, monitoring, troubleshooting and support for production changes.
-
-Previous experience includes technical support, ERP systems, customer service, database maintenance and infrastructure support.
+Currently at CWI Software, supporting production environments for retail operations, e-commerce, order integrations, fiscal flows and corporate platforms. Before that, technical support for an ERP system: installation, user training and MySQL databases.
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/guilhermehenn](https://www.linkedin.com/in/guilhermehenn)
-- GitHub: [github.com/guilhermehenn](https://github.com/guilhermehenn)
-- Email: guilhermehenn@protonmail.com
+[LinkedIn](https://www.linkedin.com/in/guilhermehenn) · [Email](mailto:guilhermehenn@protonmail.com)
